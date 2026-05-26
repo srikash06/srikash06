@@ -8,7 +8,7 @@
 <!-- SECTION A: ANIMATED HEADER -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Wave" />
-  <h1>Hey there! I'm Srikash Sana</h1>
+  <h1>Hey there! I'm Srikash</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%F0%9F%9A%80;4%2B+Years+of+Cloud+%26+Infra+Experience;Automating+Everything%2C+One+Pipeline+at+a+Time;Cloud+Native+%7C+CI%2FCD+%7C+Infrastructure+as+Code" alt="Typing SVG" />
@@ -71,7 +71,7 @@ I'm a **DevOps Engineer** with **4 years** of hands-on experience designing, bui
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/srikash-sana" target="_blank">
+  <a href="https://github.com/srikash06" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
