@@ -1,6 +1,6 @@
 <!-- SECTION G: VISITOR COUNTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=srikash-sana&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=srikash06&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
@@ -83,13 +83,13 @@ I'm a **DevOps Engineer** with **4 years** of hands-on experience designing, bui
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=srikash-sana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=srikash06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikash-sana&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikash06&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikash-sana&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikash06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" alt="Top Languages"/>
 
 </div>
 
@@ -99,7 +99,7 @@ I'm a **DevOps Engineer** with **4 years** of hands-on experience designing, bui
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srikash-sana&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=srikash06&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
