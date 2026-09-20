@@ -25,7 +25,7 @@
 
 > *"Automate the boring, scale the important, ship the impossible."*
 
-I'm a **DevOps Engineer** with **4 years** of hands-on experience designing, building, and maintaining cloud infrastructure that just *works* — reliably, securely, and at scale. I thrive at the intersection of development and operations, bridging gaps with automation and clean pipelines.
+I'm a **DevOps Engineer** with **4+ years** of hands-on experience designing, building, and maintaining cloud infrastructure that just *works* — reliably, securely, and at scale. I thrive at the intersection of development and operations, bridging gaps with automation and clean pipelines.
 
 - 🔧 **I break things in staging** so production stays pristine
 - ☁️ **Cloud is my playground** — AWS is where I live and breathe
